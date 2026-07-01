@@ -40,7 +40,7 @@ export default function AnnoncoererPage() {
         {
           title: "Effektivt",
           description: "Høj recall",
-          imageSrc: "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782908917373-u8rh0kkv.jpg",
+          imageSrc: "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782908693233-kvxgam34.jpg",
         },
         {
           title: "Kvalitet",
