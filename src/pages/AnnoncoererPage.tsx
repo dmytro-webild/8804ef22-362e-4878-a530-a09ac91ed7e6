@@ -35,7 +35,7 @@ export default function AnnoncoererPage() {
         {
           title: "Kreativt",
           description: "Frit format",
-          imageSrc: "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782908571285-efgxnxr5.png?_wi=5",
+          imageSrc: "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782908693244-6pm3jn06.jpg",
         },
         {
           title: "Effektivt",
