@@ -14,7 +14,7 @@ export default function CasesPage() {
       items={[
         {
           category: "Retail",
-          title: "Aarhus Rådhuspladsen Rådhuspladsen",
+          title: "Aarhus Rådhuspladsen",
           excerpt: "Storformat kampagne på byggeplads centralt i Aarhus Rådhuspladsen C.",
           authorName: "Urban OOH",
           authorImageSrc: "",
