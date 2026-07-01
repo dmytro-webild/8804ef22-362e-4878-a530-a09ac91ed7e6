@@ -61,7 +61,7 @@ export default function AnnoncoererPage() {
       description="Vi tilbyder de bedste placeringer i Danmark."
       metrics={[
         {
-          value: "Top 5",
+          value: "Top",
           title: "Lokationer",
           features: [
             "Højeste trafik",
