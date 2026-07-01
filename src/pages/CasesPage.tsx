@@ -18,7 +18,7 @@ export default function CasesPage() {
           excerpt: "Storformat kampagne på byggeplads centralt i Aarhus Rådhuspladsen C.",
           authorName: "Urban OOH",
           authorImageSrc: "",
-          date: "2024-05-12",
+          date: "",
           imageSrc: "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782911834386-nqaqccgm.jpg",
         },
         {
