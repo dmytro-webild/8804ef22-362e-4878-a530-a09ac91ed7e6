@@ -6,6 +6,7 @@ import AnnoncoererPage from './pages/AnnoncoererPage';
 import CasesPage from './pages/CasesPage';
 import KontaktPage from './pages/KontaktPage';
 
+import HandelsbetingelserPage from "@/pages/HandelsbetingelserPage";
 export default function App() {
   return (
     <Routes>
@@ -15,6 +16,7 @@ export default function App() {
         <Route path="/annoncoerer" element={<AnnoncoererPage />} />
         <Route path="/cases" element={<CasesPage />} />
         <Route path="/kontakt" element={<KontaktPage />} />
+        <Route path="/handelsbetingelser" element={<HandelsbetingelserPage />} />
       </Route>
     </Routes>
   );
