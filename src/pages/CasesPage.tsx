@@ -28,7 +28,7 @@ export default function CasesPage() {
           authorName: "Urban OOH",
           authorImageSrc: "",
           date: "",
-          imageSrc: "http://img.b2bpic.net/free-photo/huge-billboard_23-2147726650.jpg",
+          imageSrc: "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782911747783-10uunk3k.jpg",
         },
       ]}
       textAnimation="fade"
