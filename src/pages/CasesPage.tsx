@@ -19,7 +19,7 @@ export default function CasesPage() {
           authorName: "Urban OOH",
           authorImageSrc: "",
           date: "2024-05-12",
-          imageSrc: "http://img.b2bpic.net/free-photo/big-signpost-banner-city_23-2147764774.jpg",
+          imageSrc: "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782911834386-nqaqccgm.jpg",
         },
         {
           category: "Tech",
