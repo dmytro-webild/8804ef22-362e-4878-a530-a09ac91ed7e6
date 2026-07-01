@@ -27,7 +27,7 @@ export default function CasesPage() {
           excerpt: "Høj frekvens placering i centrum.",
           authorName: "Urban OOH",
           authorImageSrc: "",
-          date: "2024-04-20",
+          date: "",
           imageSrc: "http://img.b2bpic.net/free-photo/huge-billboard_23-2147726650.jpg",
         },
       ]}
