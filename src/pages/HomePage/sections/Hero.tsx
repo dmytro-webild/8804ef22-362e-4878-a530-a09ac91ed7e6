@@ -11,7 +11,7 @@ export default function HeroSection(): React.JSX.Element {
         <SectionErrorBoundary name="hero">
               <HeroBillboard
           title="Forvandl byggeplads til premium medieflade."
-          description="Urban OOH forbinder bygherrer med de stærkeste storformat-placeringer i Danmark."
+          description="Urban OOH forbinder brands med de stærkeste storformat-placeringer i Danmark."
           primaryButton={{
             text: "For bygherrer",        href: "/bygherrer"}}
           secondaryButton={{

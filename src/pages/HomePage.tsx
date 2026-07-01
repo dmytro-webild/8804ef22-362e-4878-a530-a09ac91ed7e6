@@ -8,7 +8,6 @@ import React from 'react';
 import HeroSection from './HomePage/sections/Hero';
 import TestimonialsSection from './HomePage/sections/Testimonials';
 import MetricsSection from './HomePage/sections/Metrics';
-import TestimonialSection from './HomePage/sections/Testimonial';
 import AboutSection from './HomePage/sections/About';
 
 export default function HomePage(): React.JSX.Element {
@@ -20,7 +19,6 @@ export default function HomePage(): React.JSX.Element {
 
   <MetricsSection />
 
-  <TestimonialSection />
 
   <AboutSection />
     </>
