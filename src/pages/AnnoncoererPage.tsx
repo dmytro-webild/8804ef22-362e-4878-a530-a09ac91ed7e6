@@ -45,7 +45,7 @@ export default function AnnoncoererPage() {
         {
           title: "Kvalitet",
           description: "Professionel opsætning",
-          imageSrc: "http://img.b2bpic.net/free-photo/blank-billboard-city-street-scene_9975-135597.jpg",
+          imageSrc: "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782908349793-0ece546j.jpg",
         },
       ]}
       textAnimation="fade"
