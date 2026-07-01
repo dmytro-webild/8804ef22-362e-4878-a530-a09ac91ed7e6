@@ -18,7 +18,9 @@ export default function Layout() {
   },
   {
     "name": "Cases",    "href": "/cases"
-  }
+  },
+  { name: "Handelsbetingelser", href: "/handelsbetingelser" },
+
 ];
 
   return (
