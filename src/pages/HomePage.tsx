@@ -31,20 +31,11 @@ export default function HomePage() {
       description="Hør hvad bygherrer og mediebureauer siger."
       testimonials={[
         {
-          name: "Anders Jensen",          role: "Udviklingschef",          company: "ByggePartner",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/large-billboard-street_132075-5669.jpg"},
+          name: "Magnus Ebbesen",          role: "Client Manager",          company: "Dentsu",          rating: 5,
+          imageSrc: "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80&w=256&h=256"},
         {
-          name: "Mette Nielsen",          role: "Media Planner",          company: "Agency Nord",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/staircase-near-blue-wall-garage-leading-red-door_181624-16517.jpg"},
-        {
-          name: "Søren Holm",          role: "CEO",          company: "Holm Ejendomme",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/vertical-shot-yellow-spiral-staircase-sunlight_181624-12099.jpg"},
-        {
-          name: "Trine Østergaard",          role: "Brand Manager",          company: "Retail Group",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/young-influencer-connecting-social-network-digital-world_482257-126523.jpg"},
-        {
-          name: "Jesper Vester",          role: "Director",          company: "Vester Byg",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-man-with-map_1153-414.jpg"},
+          name: "Christian Petersson",          role: "Project Development Manager",          company: "Urban Partners",          rating: 5,
+          imageSrc: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=256&h=256"},
       ]}
       textAnimation="fade"
     />
