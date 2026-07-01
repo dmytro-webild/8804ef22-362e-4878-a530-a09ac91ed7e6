@@ -30,7 +30,7 @@ export default function AnnoncoererPage() {
         {
           title: "Strategisk",
           description: "Målrettet rækkevidde",
-          imageSrc: "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782908571285-efgxnxr5.png?_wi=4",
+          imageSrc: "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782908349799-6ku5kx9l.jpg",
         },
         {
           title: "Kreativt",
