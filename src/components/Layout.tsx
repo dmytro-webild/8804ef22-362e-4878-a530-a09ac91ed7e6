@@ -19,8 +19,6 @@ export default function Layout() {
   {
     "name": "Cases",    "href": "/cases"
   },
-  { name: "Handelsbetingelser", href: "/handelsbetingelser" },
-
 ];
 
   return (
@@ -63,9 +61,11 @@ export default function Layout() {
       copyright="© 2024 Urban OOH. Alle rettigheder forbeholdes."
       links={[
         {
-          label: "Privatliv",          href: "#"},
+          label: "Privatlivspolitik",          href: "#"},
         {
           label: "Cookies",          href: "#"},
+        {
+          label: "Handelsbetingelser",          href: "/handelsbetingelser"}
       ]}
     />
       </SectionErrorBoundary>
