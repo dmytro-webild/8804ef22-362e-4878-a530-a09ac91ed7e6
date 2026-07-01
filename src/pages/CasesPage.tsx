@@ -14,7 +14,7 @@ export default function CasesPage() {
       items={[
         {
           category: "Retail",
-          title: "Fashion Campaign Aarhus",
+          title: "Aarhus",
           excerpt: "Storformat kampagne på byggeplads centralt i Aarhus C.",
           authorName: "Urban OOH",
           authorImageSrc: "",
