@@ -20,7 +20,7 @@ export default function AnnoncoererPage() {
         {
           title: "Aarhus C",
           description: "Høj frekvens",
-          imageSrc: "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782908571285-efgxnxr5.png?_wi=2",
+          imageSrc: "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782908693244-6pm3jn06.jpg",
         },
         {
           title: "Storbypuls",
