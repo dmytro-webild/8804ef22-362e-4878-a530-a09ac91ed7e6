@@ -37,7 +37,7 @@ export default function Layout() {
       </main>
       <SectionErrorBoundary name="footer">
         <FooterSimple
-      brand={<img src="https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782910223948-gowkbiez.png" alt="Urban OOH" className="h-8 w-auto" /> as unknown as string}
+      brand={<img src="https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782910522595-8iyx2pbc.png" alt="Urban OOH" className="h-8 w-auto brightness-0 invert" /> as unknown as string}
       columns={[
         {
           title: "Menu",          items: [
