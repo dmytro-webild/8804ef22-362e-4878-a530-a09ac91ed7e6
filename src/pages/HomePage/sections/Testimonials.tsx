@@ -7,50 +7,16 @@ import TextAnimation from "@/components/ui/TextAnimation";
 import ImageOrVideo from "@/components/ui/ImageOrVideo";
 import ScrollReveal from "@/components/ui/ScrollReveal";
 
-const testimonials = [
-  {
-    name: "Magnus Ebbesen",
-    role: "Client Manager",
-    company: "Dentsu",
-    rating: 5
-  },
-  {
-    name: "Christian Petersson",
-    role: "Project Development Manager",
-    company: "Urban Partners",
-    rating: 5
-  },
-  {
-    name: "Søren Haunstrup",
-    role: "Administerende direktør",
-    company: "S2 consult",
-    rating: 5
-  },
-  {
-    name: "Kasper Højmann",
-    role: "Brand marketing manager",
-    company: "HISENSE",
-    rating: 5
-  },
-  {
-    name: "Stephan Koldbjerg",
-    role: "Media & Marketing manager",
-    company: "LIDL",
-    rating: 5
-  }
+const logos = [
+  "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782906697611-x2urxgtk.png",
+  "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782906697612-l4fox9t3.png",
+  "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782906697612-27u7e4wj.png",
+  "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782906697613-eyqn2y5x.png",
+  "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782906697613-i6djp69w.png"
 ];
 
-type Testimonial = {
-  name: string;
-  role: string;
-  company: string;
-  rating: number;
-  imageSrc?: string;
-  videoSrc?: string;
-};
-
 const TestimonialsInline = () => {
-  const duplicated = [...testimonials, ...testimonials, ...testimonials, ...testimonials];
+  const duplicated = [...logos, ...logos, ...logos, ...logos];
 
   return (
     <section aria-label="Testimonials section" className="pt-20 pb-10">
@@ -69,7 +35,7 @@ const TestimonialsInline = () => {
           />
 
           <TextAnimation
-            text={"Hør hvad bygherrer og mediebureauer siger."}
+            text={"Et udpluk af samarbejdspartnere"}
             variant={"fade"}
             gradientText={false}
             tag="p"
@@ -87,29 +53,9 @@ const TestimonialsInline = () => {
         <ScrollReveal variant="slide-up">
           <div className="w-content-width mx-auto overflow-hidden mask-fade-x-medium">
             <div className="flex w-max animate-marquee-horizontal" style={{ animationDuration: "60s" }}>
-              {duplicated.map((testimonial, i) => (
-                <div key={i} className="relative shrink-0 w-60 md:w-75 2xl:w-80 aspect-4/5 mb-10 mr-3 md:mr-5 rounded overflow-hidden card">
-                  <div className="absolute inset-x-4 bottom-4 xl:inset-x-5 xl:bottom-5 2xl:inset-x-6 2xl:bottom-6 flex flex-col gap-1 xl:gap-2 2xl:gap-3 p-4 xl:p-5 2xl:p-6">
-                    <div className="flex gap-1.5 mb-1">
-                      {Array.from({ length: 5 }).map((_, index) => (
-                        <Star
-                          key={index}
-                          className={cls(
-                            "size-5 text-accent",
-                            index < testimonial.rating ? "fill-accent" : "fill-transparent"
-                          )}
-                          strokeWidth={1.5}
-                        />
-                      ))}
-                    </div>
-
-                    <span className="text-2xl font-semibold leading-snug truncate">{testimonial.name}</span>
-
-                    <div className="flex flex-col">
-                      <span className="text-base leading-snug truncate">{testimonial.role}</span>
-                      <span className="text-base leading-snug truncate">{testimonial.company}</span>
-                    </div>
-                  </div>
+              {duplicated.map((logo, i) => (
+                <div key={i} className="relative shrink-0 w-40 md:w-48 2xl:w-56 aspect-video mb-10 mr-8 md:mr-12 rounded overflow-hidden flex items-center justify-center">
+                  <img src={logo} alt="Partner logo" className="w-full h-full object-contain" />
                 </div>
               ))}
             </div>
