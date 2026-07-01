@@ -19,8 +19,6 @@ export default function Layout() {
   {
     "name": "Cases",    "href": "/cases"
   },
-  { name: "Handelsbetingelser", href: "/handelsbetingelser" },
-
 ];
 
   return (
@@ -66,6 +64,8 @@ export default function Layout() {
           label: "Privatliv",          href: "#"},
         {
           label: "Cookies",          href: "#"},
+        {
+          label: "Handelsbetingelser",          href: "/handelsbetingelser"}
       ]}
     />
       </SectionErrorBoundary>
