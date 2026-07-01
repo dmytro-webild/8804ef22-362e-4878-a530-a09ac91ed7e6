@@ -100,7 +100,11 @@ export default function HomePage() {
   <div id="about" data-section="about">
     <SectionErrorBoundary name="about">
           <AboutTestimonialParallax
-      imageSrc="https://storage.googleapis.com/webild/default/no-image.jpg?id=tx6dhf"
+      tag="Om os"
+      quote="Vi bygger bro mellem byggepladser og brands."
+      author="Urban OOH Team"
+      role="Media Partner"
+      textAnimation="fade"
     />
     </SectionErrorBoundary>
   </div>
