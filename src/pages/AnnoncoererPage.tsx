@@ -15,32 +15,32 @@ export default function AnnoncoererPage() {
         {
           title: "Rådhuspladsen, Aarhus",
           description: "Premium placering",
-          imageSrc: "http://img.b2bpic.net/free-photo/man-with-smartphone-taking-selfie_23-2148296613.jpg",
+          imageSrc: "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782908571285-efgxnxr5.png",
         },
         {
           title: "Aarhus C",
           description: "Høj frekvens",
-          imageSrc: "http://img.b2bpic.net/free-photo/empty-billboard-metropolis-city_23-2151913701.jpg",
+          imageSrc: "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782908571285-efgxnxr5.png",
         },
         {
           title: "Storbypuls",
           description: "Maksimal synlighed",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-painted-red-black-big-blank-hoarding-against-sky_23-2147901109.jpg",
+          imageSrc: "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782908571285-efgxnxr5.png",
         },
         {
           title: "Strategisk",
           description: "Målrettet rækkevidde",
-          imageSrc: "http://img.b2bpic.net/free-photo/cityscape-with-neon-sign_23-2148164916.jpg",
+          imageSrc: "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782908571285-efgxnxr5.png",
         },
         {
           title: "Kreativt",
           description: "Frit format",
-          imageSrc: "http://img.b2bpic.net/free-photo/big-billboard-template-building-city_23-2148197245.jpg",
+          imageSrc: "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782908571285-efgxnxr5.png",
         },
         {
           title: "Effektivt",
           description: "Høj recall",
-          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-women-keeping-distance_23-2148627189.jpg",
+          imageSrc: "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782908571285-efgxnxr5.png",
         },
         {
           title: "Kvalitet",
