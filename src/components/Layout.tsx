@@ -27,7 +27,7 @@ export default function Layout() {
       <SectionErrorBoundary name="navbar">
         <NavbarFloatingLogo
       logo=""
-      logoImageSrc="data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 30 200 135'%3E%3Crect x='10' y='40' width='180' height='70' fill='none' stroke='%231c1c1c' stroke-width='10'/%3E%3Ctext x='100' y='88' font-family='system-ui, sans-serif' font-weight='900' font-size='42' fill='%231c1c1c' text-anchor='middle' letter-spacing='4'%3EURBAN%3C/text%3E%3Ctext x='180' y='155' font-family='system-ui, sans-serif' font-weight='900' font-size='42' fill='%231c1c1c' text-anchor='end' letter-spacing='4'%3EOOH%3C/text%3E%3C/svg%3E"
+      logoImageSrc="https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782903449407-idyahbxw.png"
       ctaButton={{
         text: "Kontakt os",        href: "/kontakt"}}
      navItems={navItems} />
