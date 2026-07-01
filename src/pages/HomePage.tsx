@@ -17,7 +17,7 @@ export default function HomePage() {
         text: "For bygherrer",        href: "/bygherrer"}}
       secondaryButton={{
         text: "For annoncører",        href: "/annoncoerer"}}
-      imageSrc="http://img.b2bpic.net/free-photo/minimalist-architecture-with-reflective-pool_23-2151993722.jpg"
+      imageSrc="https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782900317840-e2y1mi42.jpg"
       textAnimation="fade"
     />
     </SectionErrorBoundary>
