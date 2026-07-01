@@ -45,7 +45,7 @@ export default function AnnoncoererPage() {
         {
           title: "Kvalitet",
           description: "Professionel opsætning",
-          imageSrc: "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782908349793-0ece546j.jpg",
+          imageSrc: "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782909004007-dgetifnr.jpg",
         },
       ]}
       textAnimation="fade"
