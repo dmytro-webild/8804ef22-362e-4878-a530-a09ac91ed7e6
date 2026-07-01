@@ -27,7 +27,7 @@ export default function Layout() {
       <SectionErrorBoundary name="navbar">
         <NavbarFloatingLogo
       logo=""
-      logoImageSrc="https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782903449407-idyahbxw.png"
+      logoImageSrc="https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782903585079-e26ykr59.png"
       ctaButton={{
         text: "Kontakt os",        href: "/kontakt"}}
      navItems={navItems} />
