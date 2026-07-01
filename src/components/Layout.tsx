@@ -26,7 +26,7 @@ export default function Layout() {
       <SiteBackgroundSlot />
       <SectionErrorBoundary name="navbar">
         <NavbarFloatingLogo
-      logo="Urban OOH"
+      logo=""
       logoImageSrc="data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 200'%3E%3Crect x='10' y='40' width='180' height='70' fill='none' stroke='%231c1c1c' stroke-width='10'/%3E%3Ctext x='100' y='88' font-family='system-ui, sans-serif' font-weight='900' font-size='42' fill='%231c1c1c' text-anchor='middle' letter-spacing='4'%3EURBAN%3C/text%3E%3Ctext x='180' y='155' font-family='system-ui, sans-serif' font-weight='900' font-size='42' fill='%231c1c1c' text-anchor='end' letter-spacing='4'%3EOOH%3C/text%3E%3C/svg%3E"
       ctaButton={{
         text: "Kontakt os",        href: "/kontakt"}}
