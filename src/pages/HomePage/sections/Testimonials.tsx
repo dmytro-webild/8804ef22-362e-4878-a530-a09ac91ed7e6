@@ -12,7 +12,10 @@ const logos = [
   "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782906697612-l4fox9t3.png",
   "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782906697612-27u7e4wj.png",
   "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782906697613-eyqn2y5x.png",
-  "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782906697613-i6djp69w.png"
+  "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782906697613-i6djp69w.png",
+  "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782907126536-o3dmnkcd.png",
+  "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782907126537-ois0pnlx.png",
+  "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782907126538-wckp9pvd.png"
 ];
 
 const TestimonialsInline = () => {
