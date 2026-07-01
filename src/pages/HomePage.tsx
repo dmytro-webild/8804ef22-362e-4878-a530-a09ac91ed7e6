@@ -104,6 +104,7 @@ export default function HomePage() {
       quote="Vi bygger bro mellem byggepladser og brands."
       author="Urban OOH Team"
       role="Media Partner"
+      videoSrc="https://storage.googleapis.com/webild/default/video-placeholder.mp4"
       textAnimation="fade"
     />
     </SectionErrorBoundary>
