@@ -8,32 +8,25 @@ import { StyleProvider } from "@/components/ui/StyleProvider";
 export default function Layout() {
   const navItems = [
   {
-    "name": "Forside",
-    "href": "/"
+    "name": "Forside",    "href": "/"
   },
   {
-    "name": "For bygherrer",
-    "href": "/bygherrer"
+    "name": "For bygherrer",    "href": "/bygherrer"
   },
   {
-    "name": "For annoncører",
-    "href": "/annoncoerer"
+    "name": "For annoncører",    "href": "/annoncoerer"
   },
   {
-    "name": "Cases",
-    "href": "/cases"
+    "name": "Cases",    "href": "/cases"
   },
   {
-    "name": "Hero",
-    "href": "#hero"
+    "name": "Hero",    "href": "#hero"
   },
   {
-    "name": "Testimonials",
-    "href": "#testimonials"
+    "name": "Testimonials",    "href": "#testimonials"
   },
   {
-    "name": "Metrics",
-    "href": "#metrics"
+    "name": "Metrics",    "href": "#metrics"
   }
 ];
 
@@ -43,11 +36,9 @@ export default function Layout() {
       <SectionErrorBoundary name="navbar">
         <NavbarFloatingLogo
       logo="Urban OOH"
-      logoImageSrc="https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=200&h=200&fit=crop"
+      logoImageSrc="https://storage.googleapis.com/webild/default/no-image.jpg?id=tx6dhf"
       ctaButton={{
-        text: "Kontakt os",
-        href: "/kontakt",
-      }}
+        text: "Kontakt os",        href: "/kontakt"}}
      navItems={navItems} />
       </SectionErrorBoundary>
       <main className="flex-grow">
@@ -58,46 +49,30 @@ export default function Layout() {
       brand="Urban OOH"
       columns={[
         {
-          title: "Menu",
-          items: [
+          title: "Menu",          items: [
             {
-              label: "Forside",
-              href: "/",
-            },
+              label: "Forside",              href: "/"},
             {
-              label: "For bygherrer",
-              href: "/bygherrer",
-            },
+              label: "For bygherrer",              href: "/bygherrer"},
             {
-              label: "For annoncører",
-              href: "/annoncoerer",
-            },
+              label: "For annoncører",              href: "/annoncoerer"},
           ],
         },
         {
-          title: "Virksomhed",
-          items: [
+          title: "Virksomhed",          items: [
             {
-              label: "Kontakt",
-              href: "/kontakt",
-            },
+              label: "Kontakt",              href: "/kontakt"},
             {
-              label: "Cases",
-              href: "/cases",
-            },
+              label: "Cases",              href: "/cases"},
           ],
         },
       ]}
       copyright="© 2024 Urban OOH. Alle rettigheder forbeholdes."
       links={[
         {
-          label: "Privatliv",
-          href: "#",
-        },
+          label: "Privatliv",          href: "#"},
         {
-          label: "Cookies",
-          href: "#",
-        },
+          label: "Cookies",          href: "#"},
       ]}
     />
       </SectionErrorBoundary>
