@@ -27,7 +27,7 @@ export default function Layout() {
       <SectionErrorBoundary name="navbar">
         <NavbarFloatingLogo
       logo="Urban OOH"
-      logoImageSrc="data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 200'%3E%3Crect width='200' height='200' fill='%231c1c1c' rx='40'/%3E%3Crect x='30' y='40' width='140' height='90' fill='none' stroke='%23ffffff' stroke-width='12' rx='12'/%3E%3Cpath d='M 40 130 L 40 90 L 65 90 L 65 65 L 95 65 L 95 100 L 125 100 L 125 75 L 160 75 L 160 130 Z' fill='%23ffffff'/%3E%3Cline x1='100' y1='130' x2='100' y2='170' stroke='%23ffffff' stroke-width='16' stroke-linecap='round'/%3E%3Cline x1='60' y1='170' x2='140' y2='170' stroke='%23ffffff' stroke-width='12' stroke-linecap='round'/%3E%3C/svg%3E"
+      logoImageSrc="data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 200'%3E%3Crect x='10' y='40' width='180' height='70' fill='none' stroke='%231c1c1c' stroke-width='10'/%3E%3Ctext x='100' y='88' font-family='system-ui, sans-serif' font-weight='900' font-size='42' fill='%231c1c1c' text-anchor='middle' letter-spacing='4'%3EURBAN%3C/text%3E%3Ctext x='180' y='155' font-family='system-ui, sans-serif' font-weight='900' font-size='42' fill='%231c1c1c' text-anchor='end' letter-spacing='4'%3EOOH%3C/text%3E%3C/svg%3E"
       ctaButton={{
         text: "Kontakt os",        href: "/kontakt"}}
      navItems={navItems} />
