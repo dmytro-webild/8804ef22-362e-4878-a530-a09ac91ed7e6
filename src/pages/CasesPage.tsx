@@ -14,8 +14,8 @@ export default function CasesPage() {
       items={[
         {
           category: "Retail",
-          title: "Aarhus",
-          excerpt: "Storformat kampagne på byggeplads centralt i Aarhus C.",
+          title: "Aarhus Rådhuspladsen Rådhuspladsen",
+          excerpt: "Storformat kampagne på byggeplads centralt i Aarhus Rådhuspladsen C.",
           authorName: "Urban OOH",
           authorImageSrc: "",
           date: "2024-05-12",
@@ -23,7 +23,7 @@ export default function CasesPage() {
         },
         {
           category: "Tech",
-          title: "Launch i København",
+          title: "Aarhus Rådhuspladsen",
           excerpt: "Høj frekvens placering i centrum.",
           authorName: "Urban OOH",
           authorImageSrc: "",
