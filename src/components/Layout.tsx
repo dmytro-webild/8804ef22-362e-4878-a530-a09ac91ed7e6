@@ -27,7 +27,7 @@ export default function Layout() {
       <SectionErrorBoundary name="navbar">
         <NavbarFloatingLogo
       logo="Urban OOH"
-      logoImageSrc="https://storage.googleapis.com/webild/default/no-image.jpg?id=tx6dhf"
+      logoImageSrc="data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 200'%3E%3Crect width='200' height='200' fill='%231c1c1c' rx='40'/%3E%3Crect x='50' y='50' width='100' height='60' fill='none' stroke='%23ffffff' stroke-width='16' rx='8'/%3E%3Cline x1='100' y1='110' x2='100' y2='150' stroke='%23ffffff' stroke-width='16'/%3E%3Cline x1='70' y1='150' x2='130' y2='150' stroke='%23ffffff' stroke-width='16'/%3E%3C/svg%3E"
       ctaButton={{
         text: "Kontakt os",        href: "/kontakt"}}
      navItems={navItems} />
