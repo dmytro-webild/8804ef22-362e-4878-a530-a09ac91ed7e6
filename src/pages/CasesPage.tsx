@@ -42,10 +42,12 @@ export default function CasesPage() {
       tag="Partnere"
       title="Samarbejdspartnere"
       description="Vi arbejder sammen med landets førende ejendomsudviklere."
-      logos={[
-        { src: "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782912109791-pykk1377.png", alt: "Partner 1" },
-        { src: "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782912109792-3p026ffc.png", alt: "Partner 2" },
-        { src: "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782912109792-89ucon5k.png", alt: "Partner 3" },
+      names={[
+        "ByggePartner",
+        "Holm Ejendomme",
+        "Vester Byg",
+        "Nordic Invest",
+        "City Construction",
       ]}
       textAnimation="fade"
     />
