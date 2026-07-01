@@ -61,7 +61,7 @@ export default function Layout() {
       copyright="© 2024 Urban OOH. Alle rettigheder forbeholdes."
       links={[
         {
-          label: "Privatliv",          href: "#"},
+          label: "Privatlivspolitik",          href: "#"},
         {
           label: "Cookies",          href: "#"},
         {
