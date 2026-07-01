@@ -15,7 +15,7 @@ export default function AnnoncoererPage() {
         {
           title: "Rådhuspladsen, Aarhus",
           description: "Premium placering",
-          imageSrc: "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782908571285-efgxnxr5.png?_wi=1",
+          imageSrc: "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782908693238-pg4epy1v.jpg",
         },
         {
           title: "Aarhus C",
