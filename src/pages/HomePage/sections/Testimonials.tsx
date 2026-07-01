@@ -8,14 +8,11 @@ import ImageOrVideo from "@/components/ui/ImageOrVideo";
 import ScrollReveal from "@/components/ui/ScrollReveal";
 
 const logos = [
-  "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782906697611-x2urxgtk.png",
-  "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782906697612-l4fox9t3.png",
-  "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782906697612-27u7e4wj.png",
-  "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782906697613-eyqn2y5x.png",
-  "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782906697613-i6djp69w.png",
-  "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782907126536-o3dmnkcd.png",
-  "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782907126537-ois0pnlx.png",
-  "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782907126538-wckp9pvd.png"
+  "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782912109791-pykk1377.png",
+  "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782912109792-3p026ffc.png",
+  "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782912109792-89ucon5k.png",
+  "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782912243266-q3hws0sm.png",
+  "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782912243267-i50y03ia.png"
 ];
 
 const TestimonialsInline = () => {
