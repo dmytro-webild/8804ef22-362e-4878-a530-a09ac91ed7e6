@@ -18,15 +18,6 @@ export default function Layout() {
   },
   {
     "name": "Cases",    "href": "/cases"
-  },
-  {
-    "name": "Hero",    "href": "#hero"
-  },
-  {
-    "name": "Testimonials",    "href": "#testimonials"
-  },
-  {
-    "name": "Metrics",    "href": "#metrics"
   }
 ];
 
