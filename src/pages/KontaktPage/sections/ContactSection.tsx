@@ -18,7 +18,7 @@ export default function ContactSectionSection(): React.JSX.Element {
           }}
           secondaryButton={{
             text: "Ring nu",
-            href: "tel:+4500000000",
+            href: "tel:+45 28 74 22 92",
           }}
           textAnimation="fade"
         />
