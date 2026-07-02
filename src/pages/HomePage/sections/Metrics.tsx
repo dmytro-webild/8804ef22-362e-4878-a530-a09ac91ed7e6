@@ -23,7 +23,7 @@ export default function MetricsSection(): React.JSX.Element {
                 "Høj gennemslagskraft",            "Kreativ frihed",            "Premium format"],
             },
             {
-              value: "15+",          title: "Nye lokationer",          features: [
+              value: "Premium",          title: "Nye lokationer",          features: [
                 "Vækst i byer",            "Strategisk valg",            "Bygherre fokus"],
             },
           ]}
