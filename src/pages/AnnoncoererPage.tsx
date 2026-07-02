@@ -25,7 +25,7 @@ export default function AnnoncoererPage() {
         {
           title: "Storbypuls",
           description: "Maksimal synlighed",
-          imageSrc: "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782908571285-efgxnxr5.png?_wi=3",
+          imageSrc: "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782908917373-u8rh0kkv.jpg",
         },
         {
           title: "Strategisk",
