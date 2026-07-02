@@ -20,10 +20,10 @@ export default function MetricsSection(): React.JSX.Element {
             },
             {
               value: "98%",          title: "Kampagne recall",          features: [
-                "Høj gennemslagskraft",            "Kreativ frihed",            "Premium format"],
+                "Høj gennemslagskraft",            "Kreativ frihed",            "15+ format"],
             },
             {
-              value: "Premium",          title: "Nye lokationer",          features: [
+              value: "15+",          title: "Nye lokationer",          features: [
                 "Vækst i byer",            "Strategisk valg",            "Bygherre fokus"],
             },
           ]}
