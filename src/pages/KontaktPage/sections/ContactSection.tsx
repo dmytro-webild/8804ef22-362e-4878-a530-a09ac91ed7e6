@@ -14,7 +14,7 @@ export default function ContactSectionSection(): React.JSX.Element {
           text="Lad os diskutere din næste placering eller kampagne."
           primaryButton={{
             text: "Send besked",
-            href: "#",
+            href: "",
           }}
           secondaryButton={{
             text: "Ring nu",
