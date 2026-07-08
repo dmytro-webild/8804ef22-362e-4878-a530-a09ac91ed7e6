@@ -57,6 +57,14 @@ export default function Layout() {
               label: "Cases",              href: "/cases"},
           ],
         },
+        {
+          title: "Adresse",          items: [
+            {
+              label: "Grundtvigs sidevej 2",              href: "#"},
+            {
+              label: "1865 Frederiksberg C",              href: "#"},
+          ],
+        },
       ]}
       copyright="© 2024 Urban OOH. Alle rettigheder forbeholdes."
       links={[
