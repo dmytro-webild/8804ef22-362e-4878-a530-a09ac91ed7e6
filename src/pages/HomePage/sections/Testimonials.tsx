@@ -17,7 +17,11 @@ const logos = [
   "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782907126537-ois0pnlx.png",
   "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782907126538-wckp9pvd.png",
   "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782912243266-q3hws0sm.png",
-  "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782912243267-i50y03ia.png"
+  "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1782912243267-i50y03ia.png",
+  "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1790862087722-gdiqr9ft.png",
+  "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1790862087723-j6y1pqte.png",
+  "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1790862087723-4l9qybmp.png",
+  "https://storage.googleapis.com/webild/users/user_3FrMethFYMocawsrxMGgPOOqDSP/uploaded-1790862087723-oitv9g5t.png"
 ];
 
 const TestimonialsInline = () => {
