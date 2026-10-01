@@ -42,7 +42,7 @@ const HeroInline = () => {
           ) : null}
 
           <TextAnimation
-            text={"Forvandl byggeplads til premium medieflade."}
+            text={"Forvandle byggeplads til premium medieflade."}
             variant={"fade"}
             gradientText={true}
             tag="h1"
